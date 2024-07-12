@@ -26,7 +26,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 <img src="https://github.com/Harun1302123/drivemond/blob/master/sc/sc2.jpg"><br>
 
 #### Dashboard
-<img src="https://github.com/Harun1302123/drivemond/blob/master/sc/sc2.jpg"><br>
+<img src="https://github.com/Harun1302123/drivemond/blob/master/sc/sc3.jpg"><br>
 
 #### 3rd Party
 <img src="https://github.com/Harun1302123/drivemond/blob/master/sc/sc4.jpg"><br>
