@@ -20,7 +20,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 #### Home
-<img src="https://github.com/Harun1302123/drivemond/blob/master/sc/sc1.png"><br>
+<img src="https://github.com/Harun1302123/Drivemond/blob/master/sc/sc1.png"><br>
 
 #### Login
 <img src="https://github.com/Harun1302123/drivemond/blob/master/sc/sc2.png"><br>
